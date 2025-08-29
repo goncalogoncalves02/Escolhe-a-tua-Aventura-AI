@@ -1,1 +1,1 @@
-export const API_BASE_URL = "/api";
+export const API_BASE_URL = "/choreo-apis/escolhe-a-tua-aventura-ai/backend/v1/api";
